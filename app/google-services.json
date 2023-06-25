@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633087979807",
+    "project_id": "worldtoday-41a75",
+    "storage_bucket": "worldtoday-41a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633087979807:android:4e0bb3dea8bab45825002a",
+        "android_client_info": {
+          "package_name": "com.example.harsha_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633087979807-79aii2b7id31hftmhapdss8t9k54ev82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA88W8c6THxm23KjutxoIR_vEGrGRXfCng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633087979807-79aii2b7id31hftmhapdss8t9k54ev82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
